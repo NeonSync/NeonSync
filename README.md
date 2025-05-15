@@ -44,8 +44,7 @@
 </p>
 
 ---
-
-### 🐍 GitHub Contribution Snake
+### 🐍 Contribution Snake
 
 ![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
@@ -53,6 +52,5 @@
 
 ### 💡 Quote of the Day
 
-> "Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer
-
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 ---
