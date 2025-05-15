@@ -46,7 +46,7 @@
 ---
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NeonSync/NeonSync/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
