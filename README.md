@@ -11,17 +11,16 @@
 
 - 🔭 I’m currently working on **My projects**
 - 🌱 I’m currently learning **Python's framework**
-- 👯 I’m looking to collaborate on **,Free lancing, Open source, Startups**
-- 🤝 I’m open to help with **Coding**
+- 👯 I’m looking to collaborate on **Free lancing, Open source **
 - 📫 How to reach me: **rohit.sharma.rnks@gmail.com**
-- ⚡ Fun fact: **I love to explore somthing new**
+- ⚡ Fun fact: ** I'm always curious to learn something new**
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,linkedin,git,github,figma,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,linkedin,git,github,ai,figma,docker&perline=8" />
 </p>
 
 ---
@@ -38,7 +37,7 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/rohit-sharma-codes/]" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://www.linkedin.com/in/rohit-sharma-codes/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
   <a href="mailto:rohit.sharma.rnks@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
   <a href="https://www.instagram.com/rohiittt.s/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
