@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **My projects**
 - 🌱 I’m currently learning **Python's framework**
-- 👯 I’m looking to collaborate on **Free lancing, Open source **
+- 👯 I’m looking to collaborate on **Free lancing, Open source**
 - 📫 How to reach me: **rohit.sharma.rnks@gmail.com**
-- ⚡ Fun fact: ** I'm always curious to learn something new**
+- ⚡ Fun fact: **I'm always curious to learn something new**
 
 ---
 
