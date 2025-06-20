@@ -38,7 +38,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rohit-sharma-codes/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="mailto:rohit.sharma.rnks@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+  <a href="mailto:rohit.sharma.rnks@gmail.com" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
   <a href="https://www.instagram.com/rohiittt.s/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
 
