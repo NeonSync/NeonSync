@@ -43,9 +43,7 @@
 </p>
 
 ---
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/NeonSync/NeonSync/blob/output/github-contribution-grid-snake.svg)
+ 
 
 ---
 
