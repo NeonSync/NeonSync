@@ -1,4 +1,4 @@
- <h1 align="center">Hello 👋, I'm Rohit Sharma</h1>
+<h1 align="center">Hey there 👋, I'm Rohit Sharma</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
 <p align="center">
@@ -9,18 +9,18 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **My projects**
-- 🌱 I’m currently learning **Python's framework**
-- 👯 I’m looking to collaborate on **Free lancing, Open source**
-- 📫 How to reach me: **rohit.sharma.rnks@gmail.com**
-- ⚡ Fun fact: **I'm always curious to learn something new**
+- 🔭 I’m currently working on **personal projects**
+- 🌱 I’m learning **Python frameworks** and exploring **tech stuff**
+- 👯 I’m open to collaborate on **freelancing & open-source**
+- 📫 Reach me at **rohit.sharma.rnks@gmail.com**
+- ⚡ Fun fact: **I break things just to fix them better!**
 
 ---
 
-### 🛠️ Languages and Tools
+### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,linkedin,git,github,ai,figma,docker&perline=8" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,figma,docker&perline=9" />
 </p>
 
 ---
@@ -28,26 +28,34 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeonSync&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeonSync&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NeonSync&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NeonSync&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NeonSync/NeonSync/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+ 
 
 ---
 
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rohit-sharma-codes/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="mailto:rohit.sharma.rnks@gmail.com" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-  <a href="https://www.instagram.com/rohiittt.s/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+  <a href="mailto:rohit.sharma.rnks@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+  <a href="https://www.linkedin.com/in/rohit-sharma-codes/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://www.instagram.com/rohiittt.s/"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
-
----
- 
 
 ---
 
 ### 💡 Quote of the Day
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
+
 ---
