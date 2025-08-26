@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I'm+a+passionate+coder;I+love+building+cool+things&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I'm+a+coder;I+love+building+cool+things&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
